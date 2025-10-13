@@ -29,7 +29,7 @@
     "@medusajs/framework": "2.10.3",
     "@medusajs/medusa": "2.10.3",
     "@medusajs/notification-sendgrid": "2.10.3",
-    "@medusajs/payment-stripe": "2.10.3",
+    "@medusajs/payment-stripe": "^2.10.3",
     "@medusajs/user": "^2.10.3",
     "@medusajs/workflow-engine-redis": "2.10.3",
     "@mikro-orm/core": "6.4.3",
